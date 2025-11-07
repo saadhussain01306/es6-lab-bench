@@ -89,7 +89,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-border mt-16">
         <div className="container mx-auto px-4 py-8 text-center text-sm text-muted-foreground">
-          <p>Built with React, Vite, and ❤️ for learning ES6+</p>
+          <p>Happy learning ES6</p>
         </div>
       </footer>
     </div>
